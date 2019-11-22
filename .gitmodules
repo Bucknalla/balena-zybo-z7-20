@@ -1,0 +1,12 @@
+[submodule "balena-yocto-scripts"]
+	path = balena-yocto-scripts
+	url = git@github.com:balena-os/balena-yocto-scripts.git
+[submodule "layers/meta-xilinx"]
+	path = layers/meta-xilinx
+	url = https://github.com/Xilinx/meta-xilinx.git
+[submodule "layers/meta-balena"]
+	path = layers/meta-balena
+	url = git@github.com:balena-os/meta-balena.git
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
