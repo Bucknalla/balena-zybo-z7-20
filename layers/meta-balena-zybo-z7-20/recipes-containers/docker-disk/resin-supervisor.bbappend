@@ -1,0 +1,1 @@
+LED_FILE_zybo-z7-20 = "/sys/class/leds/ds23/brightness"
